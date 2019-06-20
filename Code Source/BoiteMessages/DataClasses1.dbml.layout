@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="a308d13a-0e26-48bb-9c8d-25830a25fd2a" absoluteBounds="4.75, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClasses1DataContext/connexion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9613791d-9f08-403a-bfb6-d1b21067f33a" absoluteBounds="4.765, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c7deb228-11d7-41a3-9b40-39c5c45ba82c" absoluteBounds="0.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClasses1DataContext/log_in" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13896170-91a7-4590-9044-6e5dcb564965" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 1.46875); (4.75 : 1.46875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/log_in/log_in_connexion" />
+      <nodes>
+        <classShapeMoniker Id="c7deb228-11d7-41a3-9b40-39c5c45ba82c" />
+        <classShapeMoniker Id="a308d13a-0e26-48bb-9c8d-25830a25fd2a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="91fcfedc-9037-4954-86b4-677cd8cbb797" absoluteBounds="2.5, 2.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DataClasses1DataContext/msg" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cfbc005d-379d-4d11-878d-e8887619c8c1" absoluteBounds="2.515, 3.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.4999995 : 2.4631982421875); (1.4999995 : 3.99120198567708); (1.91666641666667 : 3.99120198567708 : JumpStart); (2.08333308333333 : 3.99120198567708 : JumpEnd); (2.5 : 3.99120198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/log_in/log_in_msg" />
+      <nodes>
+        <classShapeMoniker Id="c7deb228-11d7-41a3-9b40-39c5c45ba82c" />
+        <classShapeMoniker Id="91fcfedc-9037-4954-86b4-677cd8cbb797" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.96874775 : 2.4631982421875); (0.96874775 : 3.27684899283854); (1.41666616666667 : 3.27684899283854 : JumpStart); (1.58333283333333 : 3.27684899283854 : JumpEnd); (1.91666641666667 : 3.27684899283854 : JumpStart); (2.08333308333333 : 3.27684899283854 : JumpEnd); (2.5 : 3.27684899283854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/log_in/log_in_msg1" />
+      <nodes>
+        <classShapeMoniker Id="c7deb228-11d7-41a3-9b40-39c5c45ba82c" />
+        <classShapeMoniker Id="91fcfedc-9037-4954-86b4-677cd8cbb797" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.99999975 : 2.4631982421875); (1.99999975 : 4.70555497851563); (2.5 : 4.70555497851563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/log_in/log_in_msg2" />
+      <nodes>
+        <classShapeMoniker Id="c7deb228-11d7-41a3-9b40-39c5c45ba82c" />
+        <classShapeMoniker Id="91fcfedc-9037-4954-86b4-677cd8cbb797" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

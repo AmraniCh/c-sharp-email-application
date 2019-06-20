@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="boiteMessages" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=boiteMessages;Integrated Security=True" SettingsObjectName="BoiteMessages.Properties.Settings" SettingsPropertyName="boiteMessagesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.connexion" Member="connexion">
+    <Type Name="connexion">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="etat" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Dureé" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="DebutSession" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FinSession" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Association Name="log_in_connexion" Member="log_in" ThisKey="email" OtherKey="email" Type="log_in" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.log_in" Member="log_in">
+    <Type Name="log_in">
+      <Column Name="email" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="mdpss" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="username" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="naissance" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="derniereCon" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dateCreation" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="log_in_connexion" Member="connexion" ThisKey="email" OtherKey="email" Type="connexion" />
+      <Association Name="log_in_msg" Member="msg" ThisKey="email" OtherKey="emailDes" Type="msg" />
+      <Association Name="log_in_msg1" Member="msg1" ThisKey="email" OtherKey="emailExp" Type="msg" />
+      <Association Name="log_in_msg2" Member="msg2" ThisKey="email" OtherKey="emailOrigin" Type="msg" />
+    </Type>
+  </Table>
+  <Table Name="dbo.msg" Member="msg">
+    <Type Name="msg">
+      <Column Name="id" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="titre" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="corps" Type="System.String" DbType="VarChar(2000)" CanBeNull="true" />
+      <Column Name="imp" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="lu" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="supp" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="datee" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="emailOrigin" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="emailExp" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="emailDes" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Association Name="log_in_msg" Member="log_in" ThisKey="emailDes" OtherKey="email" Type="log_in" IsForeignKey="true" />
+      <Association Name="log_in_msg1" Member="log_in1" ThisKey="emailExp" OtherKey="email" Type="log_in" IsForeignKey="true" />
+      <Association Name="log_in_msg2" Member="log_in2" ThisKey="emailOrigin" OtherKey="email" Type="log_in" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,65 @@
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe.config
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.pdb
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FRestorationMotdepasse.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAlerte.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCMessages.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FBoite.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Form1.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSignup.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Properties.Resources.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csproj.GenerateResource.Cache
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.exe
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.pdb
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCompte.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSupprimerCompte.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FHistorique.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAfficherMessage.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCNouveauMessage.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCreationCompte.resources
+C:\Users\WILL\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe.config
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.exe
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.pdb
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.pdb
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCreationCompte.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCNouveauMessage.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCompte.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FHistorique.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FRestorationMotdepasse.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSupprimerCompte.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAfficherMessage.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAlerte.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCMessages.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FBoite.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Form1.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSignup.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Properties.Resources.resources
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csprojResolveAssemblyReference.cache
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe.config
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.exe
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.pdb
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.exe
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\bin\Release\BoiteMessages.pdb
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csprojResolveAssemblyReference.cache
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCreationCompte.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCNouveauMessage.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FCompte.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FHistorique.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FRestorationMotdepasse.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSupprimerCompte.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAfficherMessage.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCAlerte.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.UCMessages.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FBoite.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Form1.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.FSignup.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.Properties.Resources.resources
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\BoiteMessages\obj\Release\BoiteMessages.csproj.GenerateResource.Cache
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\Code Source\BoiteMessages\bin\Release\BoiteMessages.exe.config
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\Code Source\BoiteMessages\obj\Release\BoiteMessages.exe
+C:\Users\WILL\Desktop\ISTA\2 eme anne\Cli-serveur\Projet Boite de messages\BoiteMessages\Code Source\BoiteMessages\obj\Release\BoiteMessages.pdb
