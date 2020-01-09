@@ -6,13 +6,13 @@ C# Email Application Using SQL Server With Local Database.
 User Interface With **[Bunifu](https://bunifuframework.com/)** Framework.
 
 ## Some Screens
-![](/screens/01.jpg)
+![home!](/screens/01.jpg)
 Home Interface.
 
-![](/screens/05.jpg)
+![register!](/screens/05.jpg)
 Register Interface.
 
-![](/screens/06.jpg)
+![login!](/screens/06.jpg)
 Login Interface.
 
 See More in **[behance](https://www.behance.net/gallery/82096399/Desktop-application-Boite-de-messagerie-utilisant-C)**
@@ -20,3 +20,4 @@ See More in **[behance](https://www.behance.net/gallery/82096399/Desktop-applica
 
 
 
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
