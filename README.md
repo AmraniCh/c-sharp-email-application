@@ -1,5 +1,11 @@
-# C# Local Messanger 
+# C# Email Application
 
-langage de programmation : C# utilisant Entity Framework (mapping objet-relationnel) 
-langage de gestion de base de donnes : SQL SERVER
+## Description
+C# Email Application Using SQL Server With Local Database.
+
+User Interface With **[Bunifu](https://bunifuframework.com/)** Framework.
+
+## Some Screens
+![](/screens/ "Philadelphia's Magic Gardens")
+
 
