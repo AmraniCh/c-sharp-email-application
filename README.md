@@ -3,7 +3,7 @@
 ## Description
 A C# Messaging Application with a local SQL server database.
 
-The user interface with designed with **[Bunifu](https://bunifuframework.com/)** Framework.
+The user interface designed with **[Bunifu](https://bunifuframework.com/)** Framework.
 
 ## Some Screens
 
