@@ -1,9 +1,9 @@
 # C# Messaging Application
 
 ## Description
-C# Messaging Application Using SQL Server With Local Database.
+A C# Messaging Application with a local SQL server database.
 
-User Interface With **[Bunifu](https://bunifuframework.com/)** Framework.
+The user interface with designed with **[Bunifu](https://bunifuframework.com/)** Framework.
 
 ## Some Screens
 
