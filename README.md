@@ -8,7 +8,7 @@ The user interface designed with **[Bunifu](https://bunifuframework.com/)** Fram
 ## Some Screens
 
 #### Home Interface.
-![](/screens/01.jpg).
+![](/screens/01.png).
 
 #### Register Interface.
 ![](/screens/05.png).
